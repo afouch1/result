@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Results/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Results.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Results.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Results/1.0.0": {
+      "type": "project",
+      "path": "../Results.csproj",
+      "msbuildProject": "../Results.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Results >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/afouch/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/afouch/Documents/Results/ResultTest/ResultTest.csproj",
+      "projectName": "ResultTest",
+      "projectPath": "/Users/afouch/Documents/Results/ResultTest/ResultTest.csproj",
+      "packagesPath": "/Users/afouch/.nuget/packages/",
+      "outputPath": "/Users/afouch/Documents/Results/ResultTest/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/afouch/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/afouch/Documents/Results/Results.csproj": {
+              "projectPath": "/Users/afouch/Documents/Results/Results.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

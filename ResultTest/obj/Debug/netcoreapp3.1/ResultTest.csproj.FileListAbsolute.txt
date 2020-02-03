@@ -1,0 +1,12 @@
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest.deps.json
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest.runtimeconfig.json
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest.runtimeconfig.dev.json
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest.dll
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/ResultTest.pdb
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/Results.dll
+/Users/afouch/Documents/Results/ResultTest/bin/Debug/netcoreapp3.1/Results.pdb
+/Users/afouch/Documents/Results/ResultTest/obj/Debug/netcoreapp3.1/ResultTest.csprojAssemblyReference.cache
+/Users/afouch/Documents/Results/ResultTest/obj/Debug/netcoreapp3.1/ResultTest.csproj.CopyComplete
+/Users/afouch/Documents/Results/ResultTest/obj/Debug/netcoreapp3.1/ResultTest.dll
+/Users/afouch/Documents/Results/ResultTest/obj/Debug/netcoreapp3.1/ResultTest.pdb

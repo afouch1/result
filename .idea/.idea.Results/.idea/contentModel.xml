@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.1" t="Include">
+            <e p="Results.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Result.cs" t="Include" />
+      <e p="Results.csproj" t="IncludeRecursive" />
+      <e p="Results.sln" t="IncludeFlat" />
+      <e p="ResultTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Results.dll" t="Include" />
+              <e p="Results.pdb" t="Include" />
+              <e p="ResultTest" t="Include" />
+              <e p="ResultTest.deps.json" t="Include" />
+              <e p="ResultTest.dll" t="Include" />
+              <e p="ResultTest.pdb" t="Include" />
+              <e p="ResultTest.runtimeconfig.dev.json" t="Include" />
+              <e p="ResultTest.runtimeconfig.json" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ResultTest" t="Include" />
+              <e p="ResultTest.assets.cache" t="Include" />
+              <e p="ResultTest.csproj.CopyComplete" t="Include" />
+              <e p="ResultTest.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="ResultTest.csprojAssemblyReference.cache" t="Include" />
+              <e p="ResultTest.dll" t="Include" />
+              <e p="ResultTest.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="project.assets.json" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+          <e p="ResultTest.csproj.nuget.cache" t="Include" />
+          <e p="ResultTest.csproj.nuget.dgspec.json" t="Include" />
+          <e p="ResultTest.csproj.nuget.g.props" t="Include" />
+          <e p="ResultTest.csproj.nuget.g.targets" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ResultTest.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Results.393858193.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
